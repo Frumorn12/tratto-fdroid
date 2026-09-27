@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tratto su F-Droid</title>
+<link rel="icon" href="repo/icons/icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--viola:#6546F3;--inchiostro:#1F1747;--testo:#4A4470;--fondo:#FBFAFF;--carta:#fff;--bordo:#E1DBFC}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--viola:#A491FA;--inchiostro:#F1EEFF;--testo:#C9C3E8;--fondo:#15112A;--carta:#1F1840;--bordo:#3A3170}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fondo);color:var(--testo);font:17px/1.55 Manrope,system-ui,sans-serif}
+main{max-width:720px;margin:0 auto;padding:48px 16px 64px}
+header{display:flex;align-items:center;gap:18px}
+header img{width:72px;height:72px;border-radius:18px}
+h1{margin:0;color:var(--inchiostro);font-size:34px;letter-spacing:-.5px}
+h2{color:var(--inchiostro);font-size:21px;margin:36px 0 10px}
+.sotto{margin:2px 0 0}
+.bottone{display:inline-block;margin-top:28px;background:var(--viola);color:#fff;text-decoration:none;font-weight:700;padding:14px 22px;border-radius:14px}
+.scheda{background:var(--carta);border:1.5px solid var(--bordo);border-radius:16px;padding:18px 20px;margin-top:14px}
+code{font-size:14px;word-break:break-all;color:var(--inchiostro)}
+ol{padding-left:22px}
+.qr{display:flex;gap:20px;align-items:center;flex-wrap:wrap}
+.qr img{width:160px;height:160px;border-radius:12px;background:#fff;padding:8px}
+a{color:var(--viola)}
+.piccolo{font-size:14px}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <img src="repo/icons/icon.png" alt="">
+  <div>
+    <h1>Tratto su F-Droid</h1>
+    <p class="sotto">Note a mano per tablet Android con penna · <a href="https://github.com/Frumorn12/tratto">codice sorgente</a></p>
+  </div>
+</header>
+
+<a class="bottone" href="fdroidrepos://frumorn12.github.io/tratto-fdroid/repo?fingerprint=5A237B0F6FDB31B94D8A0D3414ACE1C047FB1FE931B4C2F6E595E03E1F99ECE0">Aggiungi il repository a F-Droid</a>
+
+<h2>Come si aggiunge</h2>
+<ol>
+  <li>Installa <a href="https://f-droid.org">F-Droid</a> (o un client come Droid-ify o Neo Store).</li>
+  <li>Dal tablet tocca il pulsante qui sopra, oppure inquadra il codice QR, oppure in F-Droid vai in <b>Impostazioni › Repository › +</b> e incolla l'indirizzo.</li>
+  <li>Cerca <b>Tratto</b> e installalo: gli aggiornamenti arrivano da soli.</li>
+</ol>
+
+<div class="scheda qr">
+  <img src="repo/index.png" alt="Codice QR del repository">
+  <div>
+    <div class="piccolo">Indirizzo</div>
+    <code>https://frumorn12.github.io/tratto-fdroid/repo</code>
+    <div class="piccolo" style="margin-top:10px">Impronta della chiave (SHA-256)</div>
+    <code>5A237B0F6FDB31B94D8A0D3414ACE1C047FB1FE931B4C2F6E595E03E1F99ECE0</code>
+  </div>
+</div>
+
+<h2>Quale versione</h2>
+<p>Qui c'è la versione <b>completa</b>: trascrizione della scrittura, note matematiche e backup su Google Drive, che usano librerie Google (ML Kit e Play services). La versione <b>libera</b>, solo software libero, arriverà sullo store ufficiale di F-Droid. Le due versioni hanno firme diverse: per passare dall'una all'altra fai un backup da Tratto (Impostazioni › Backup), disinstalla e ripristina.</p>
+
+<p class="piccolo">In English: this is the F-Droid repository of Tratto, a handwriting notes app for Android tablets with a stylus. Tap the button above on your device, or add the address in F-Droid › Settings › Repositories.</p>
+</main>
+</body>
+</html>

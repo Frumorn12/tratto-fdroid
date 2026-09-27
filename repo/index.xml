@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><fdroid><repo icon="icon.png" name="Tratto" pubkey="308204ed308202d5a003020102020823b261c7ff0f6f58300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e060355040313076672756d6f726e3020170d3236303932373138323530335a180f32303534303231323138323530335a30243110300e060355040b1307462d44726f69643110300e060355040313076672756d6f726e30820222300d06092a864886f70d01010105000382020f003082020a028202010093760de5a5fd229510c112f395f16402122d5a1bc53ac7cfe6da776207fe3255eb746ad576528bf0e3b0ac5159e1776b5cacdd98bae306973512323f004f89c34a88c0412a1594bad53afd88a13c2e063ce51816a970e826a23aeed8c4dd3896bdd913f993ac7bc36d843a1ca4de5a20216647a6ba26842913a9ace8831730d01f547ff1a4f0aa1e5e999ab54cf2097f12db81e889c00d2da4ed1f9e041eb1f8bbcc86246d02c58c36d5145dfe5ba1bede610a01629bbf11bc7938e92c51c79b3630fba6b144d5ae919e10aee07c735cf502ee7200cbfca760f83c8def6d4beb6bfd3e3fb7f00eb684145df7dfa47b6caf93aa17cd2a86977e8fcb496696d347022b7c7207faf768a22bb7dbca37afafdcfbb399f88e199ac19afd285b422f18bbf4f1ff5b024a57e64e04b2d78011581bb20b3e1dfc67051d087f12a764fea60b9f46ec6745dc1c4101af99c6b7d5cc31cacab9bba4d278d5ce394b64818ac4e8f1dfb4e7e55115700846aa921e4c99552f4d58ea34e8bf4a13b2f3fb877cef7e63f0f187b3e8e839ffacf2650e7c54baf1c33440cb858504dc4a7ac2a5e6ee6d0341884751b88bb96fcaeb3761a8bc84eacb37ccad3b04e6dddcdb8b7891d8f93f7ba25b0e4e72aa9893859bedb519d41fab89e94997e92bc6c7102b52121edb3b8facecdc6d2c96b2e222eff9d86cc430958a19d43e60593f4e80ab69b3d90203010001a321301f301d0603551d0e04160414383ae4c8fad012a82648d3062b159a8418c39231300d06092a864886f70d01010b050003820201006cd41f6de90f5f5786c97f3a337ecce08040e7d5017fa929bf96ac5b5420b30552378b424eb219bb77cb9275f608d3093f49d7cc9d216353f0dde3b05a3b29366fbee509f2afde396d7bbe6692ab378ae230adf11fef68314bc97fd068f4bedfaba30edbca77e529f210e708f4576c173566fca528a63d20b610147bf48b190f81a56572902335cd9206b6d4a550eeb98a30fc3174c96b67ca5fc380e52cce1a15dee55132b75d45d225ade95345afce61dc89b8359d079dda1436aa07a5242dfba51ac928489a45f99e4f510528f43f62c720d92e26d9f1584e84a52733c0f7cf9bbc89ca55f241c6b55e0ffafef6958942260f1f0da1595eca8ae69f6bfd07255a09126af4f72f5355186e83ccd5d442390264cf91612b7101fab9134ad316730ad2a167f481c39dc035d260104520f6909e6c37852934ff1c294e69c3f88d2d89a07da62457f7ec00226ffc5af5d4a7d1a764d5a021dc6a6e70ef817140e8296bd6df395a2c98191f978c5fe2d1c02116d89a4bfaa0b9ca2571a51672b554a714efba401a1414b511d78aa433f0f5e79d100ec31969db4b6155792e77050ba6c760f96e0e51acd648b7606bac08f9f683e4361bcebba88cebfbae763a6aefade4b3b0e1c4c6adfb36f47941b39bd1c540fba680627700397ec0bee191387a6f56c3baa85875984b80f04c6b09a5e5ddbdd431a21c8958fe6a3c4cef0512f7" timestamp="1790533580" url="https://frumorn12.github.io/tratto-fdroid/repo" version="20002"><description>Il repository F-Droid di Tratto, l'app di note a mano per tablet Android con penna. Qui c'è la versione completa, con trascrizione, note matematiche e backup su Google Drive.</description></repo><application id="it.frumorn.tratto"><id>it.frumorn.tratto</id><added>2026-09-27</added><lastupdated>2026-09-27</lastupdated><name>Tratto</name><summary>Handwritten notes for stylus tablets: pressure, PDF, math and transcription</summary><desc>&lt;p&gt;&lt;b&gt;Tratto&lt;/b&gt; (&quot;stroke&quot;, as in a pen stroke) is a handwriting notes app for Android tablets with an active stylus (S Pen, Wacom EMR, USI). Ink follows the pen tip with no lag, reacts to pressure and tilt, and your notes stay on the tablet in simple, documented files. The interface is in Italian.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Writing&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fountain pen with a 45° nib, ballpoint, pencil, highlighter (drawn under the ink) and brush&lt;/li&gt;
+&lt;li&gt;Pen pressure and tilt, adjustable sensitivity&lt;/li&gt;
+&lt;li&gt;Stroke or partial eraser, also with the pen button&lt;/li&gt;
+&lt;li&gt;Lasso: move, resize, recolor, copy and paste across notes&lt;/li&gt;
+&lt;li&gt;Palm rejection; two fingers to scroll and zoom&lt;/li&gt;
+&lt;li&gt;Blank, ruled, grid or dotted pages; light and dark theme&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Fast&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Double-click the pen button: a new note opens instantly&lt;/li&gt;
+&lt;li&gt;Quick settings tile and launcher shortcuts&lt;/li&gt;
+&lt;li&gt;Cold start in under half a second&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;PDF&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open or share a PDF to Tratto and write on it&lt;/li&gt;
+&lt;li&gt;Export as vector PDF, or a page as an image&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Backup&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All notes in a single .tratto file, restorable by merging or replacing&lt;/li&gt;
+&lt;li&gt;Automatic backup to Google Drive, optionally only on Wi‑Fi or while charging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Math, transcription and quick note&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write an expression and &quot;=&quot;: the result appears in handwriting (fractions, powers, roots, parentheses)&lt;/li&gt;
+&lt;li&gt;Lasso a sentence to transcribe it, or rewrite it as a neat copy in cursive or print&lt;/li&gt;
+&lt;li&gt;Quick note: a small sheet over any app, from the Quick Settings tile&lt;/li&gt;
+&lt;li&gt;Automatic backup to Google Drive, in a folder only Tratto can see&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No accounts, no ads, no analytics. This is the full build: transcription and math use Google ML Kit (on device, the model is downloaded once) and Drive uses Google Play services.&lt;/p&gt;
+</desc><license>MIT</license><categories>Note,Writing,Science &amp; Education</categories><category>Note</category><web>https://github.com/Frumorn12/tratto</web><source>https://github.com/Frumorn12/tratto</source><tracker>https://github.com/Frumorn12/tratto/issues</tracker><changelog>https://github.com/Frumorn12/tratto/commits/main</changelog><author>Andrea Brescia</author><marketversion></marketversion><marketvercode>1</marketvercode><antifeatures>NonFreeDep,NonFreeNet</antifeatures><package><version>1.0.0</version><versioncode>1</versioncode><apkname>it.frumorn.tratto_1.apk</apkname><hash type="sha256">93ae6501d35247b2ff3e93f8edf19432c5102b0a37b0c247931be60939c7341c</hash><size>14431491</size><sdkver>35</sdkver><targetSdkVersion>36</targetSdkVersion><added>2026-09-27</added><sig>4bc308c7e54dc6781ba9605fde3b45c0</sig><permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,it.frumorn.tratto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions><nativecode>arm64-v8a</nativecode></package></application></fdroid>
